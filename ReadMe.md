@@ -1,0 +1,1 @@
+Reads quotes of stocks
